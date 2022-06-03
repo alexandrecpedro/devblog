@@ -47,7 +47,7 @@ The main technologies that has been used in this project were:
 |       Navigation between pages         |              REACT NAVIGATION               | https://reactnavigation.org/                          |
 |    Open source Node.js Headless CMS    |                   STRAPI                    | https://strapi.io/                                           |
 | Promise based HTTP client - browser & Node.js |             AXIOS                    | https://axios-http.com/                               |
-|       Data persistence on device       |                ASYNC STORAGE                | https://axios-http.com/                               |
+|       Data persistence on device       |                ASYNC STORAGE                | https://react-native-async-storage.github.io/async-storage/docs/usage/          |
 |       Animation Library                |             REACT NATIVE ANIMATABLE         | https://github.com/oblador/react-native-animatable           |
 
 <br>
