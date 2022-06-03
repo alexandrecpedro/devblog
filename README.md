@@ -175,9 +175,7 @@ The main technologies that has been used in this project were:
         <li>Build CategoryPosts page: ./src/pages/CategoryPosts/index.js</li>
         <li>Adding some animations (React Native Animatable): expo install react-native-animatable</li>
         <li>Use animation on Home page</li>
-        <br> 
       </ul> 
-      <br>
     </li>
 </ol>
 </div>
