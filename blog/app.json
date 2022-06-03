@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "blog",
+    "slug": "blog",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/reactlogo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/reactnative.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/reactnative.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/reactnative.png"
+    }
+  }
+}
