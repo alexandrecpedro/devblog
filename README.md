@@ -179,20 +179,6 @@ The main technologies that has been used in this project were:
       </ul> 
       <br>
     </li>
-    <li>Part 5</li>
-      <ul>
-        <li>Create Detail interface: ./src/pages/Detail/index.js</li>
-        <li>Using ScrollView for long items</li>
-        <li>Install React-Native-Webview: expo install react-native-webview</li>
-        <li>Create a LinkWeb modal component (link from post): ./src/components/LinkWeb/index.js</li>
-      </ul>
-      <br>
-      <ul><strong>Parte 4 - Conclusão e dicas finais</strong>
-        <li>Modificar ícone do app</li>
-        <li>Possibilidades de melhorias no app: verificar os To Do's (TODO)</li>
-      </ul>
-      <br>
-    </li> 
 </ol>
 </div>
 <br>
